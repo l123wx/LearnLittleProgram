@@ -1,0 +1,16 @@
+view{
+  text-align:center;
+  font-size: 25px;
+  margin-top: 200px;
+}
+view>view{
+  margin-top:0;
+  display: inline-block;
+  color:red;
+  font-size: 50px;
+}
+.miss{
+  margin:100px 50px 10px 50px;
+  background-color:#7e475e;
+  color:#fff;
+}

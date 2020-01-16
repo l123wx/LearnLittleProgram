@@ -1,0 +1,2 @@
+<view>今天想了<view>{{number}}</view>次hxt</view>
+<button class="miss" bindtap="miss">想念hxt</button>
