@@ -1,0 +1,5 @@
+<view>
+  <image class="logo" src="../../images/logo.png"></image>
+  <view class="text">趣运动</view>
+  <view bindtap="bindViewTap" class="button">GoSport</view>
+</view>

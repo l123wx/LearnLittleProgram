@@ -1,0 +1,16 @@
+{
+  "usingComponents": {},
+  "navigationBarTitleText": "趣运动",
+  "backgroundColor": "#eeeeee",
+  "backgroundTextStyle": "light",
+  "enablePullDownRefresh": true,
+  
+  "tabBar": {
+    "list": [{
+      "pagePath": "pagePath",
+      "text": "text",
+      "iconPath": "iconPath",
+      "selectedIconPath": "selectedIconPath"
+    }]
+  }
+}

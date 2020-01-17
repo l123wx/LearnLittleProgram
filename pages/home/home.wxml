@@ -1,0 +1,194 @@
+<view class="nav">
+  <!-- 更多 -->
+  <icon class="iconfont icongengduo"></icon>
+  <!-- 标题 -->
+  <text>首页</text>
+  <!-- 添加/发布 -->
+  <icon class="iconfont iconmui-icon-add"></icon>
+</view>
+
+<!-- 组队信息容器 -->
+<scroll-view scroll-y="true" class="list_box">
+  <!-- 组队信息 -->
+  <view class="list">
+    <!-- 标题 -->
+    <view class="list_header">
+      <icon class="iconfont iconlanqiuyundongxianxing"></icon>
+      <text>打篮球</text>
+    </view>
+    <!-- 内容 -->
+    <view class="list_center">
+      <view class="personal">
+        <image src="../../images/avatar.png"></image>
+        <text>L.文禧</text>
+        <text>点击查看详情</text>
+      </view>
+      <view class="information">
+      <!-- 时间 -->
+        <view>
+          <icon class="iconfont iconxingzhuang"></icon>
+          <text>本周三下午5:00</text>
+        </view>
+        <view>
+          <icon class="iconfont iconweizhi"></icon>
+          <text>北区体育馆</text>
+        </view>
+        <view>
+          <icon class="iconfont iconrenshu"></icon>
+          <text>3/10</text>
+        </view>
+      </view>
+    </view>
+    
+  </view>
+  <view class="list">
+    <!-- 标题 -->
+    <view class="list_header">
+      <icon class="iconfont iconlanqiuyundongxianxing"></icon>
+      <text>打篮球</text>
+    </view>
+    <!-- 内容 -->
+    <view class="list_center">
+      <view class="personal">
+        <image src="../../images/avatar.png"></image>
+        <text>L.文禧</text>
+        <text>点击查看详情</text>
+      </view>
+      <view class="information">
+      <!-- 时间 -->
+        <view>
+          <icon class="iconfont iconxingzhuang"></icon>
+          <text>本周三下午5:00</text>
+        </view>
+        <view>
+          <icon class="iconfont iconweizhi"></icon>
+          <text>北区体育馆</text>
+        </view>
+        <view>
+          <icon class="iconfont iconrenshu"></icon>
+          <text>3/10</text>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="list">
+    <!-- 标题 -->
+    <view class="list_header">
+      <icon class="iconfont iconlanqiuyundongxianxing"></icon>
+      <text>打篮球</text>
+    </view>
+    <!-- 内容 -->
+    <view class="list_center">
+      <view class="personal">
+        <image src="../../images/avatar.png"></image>
+        <text>L.文禧</text>
+        <text>点击查看详情</text>
+      </view>
+      <view class="information">
+      <!-- 时间 -->
+        <view>
+          <icon class="iconfont iconxingzhuang"></icon>
+          <text>本周三下午5:00</text>
+        </view>
+        <view>
+          <icon class="iconfont iconweizhi"></icon>
+          <text>北区体育馆</text>
+        </view>
+        <view>
+          <icon class="iconfont iconrenshu"></icon>
+          <text>3/10</text>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="list">
+    <!-- 标题 -->
+    <view class="list_header">
+      <icon class="iconfont iconlanqiuyundongxianxing"></icon>
+      <text>打篮球</text>
+    </view>
+    <!-- 内容 -->
+    <view class="list_center">
+      <view class="personal">
+        <image src="../../images/avatar.png"></image>
+        <text>L.文禧</text>
+        <text>点击查看详情</text>
+      </view>
+      <view class="information">
+      <!-- 时间 -->
+        <view>
+          <icon class="iconfont iconxingzhuang"></icon>
+          <text>本周三下午5:00</text>
+        </view>
+        <view>
+          <icon class="iconfont iconweizhi"></icon>
+          <text>北区体育馆</text>
+        </view>
+        <view>
+          <icon class="iconfont iconrenshu"></icon>
+          <text>3/10</text>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="list">
+    <!-- 标题 -->
+    <view class="list_header">
+      <icon class="iconfont iconlanqiuyundongxianxing"></icon>
+      <text>打篮球</text>
+    </view>
+    <!-- 内容 -->
+    <view class="list_center">
+      <view class="personal">
+        <image src="../../images/avatar.png"></image>
+        <text>L.文禧</text>
+        <text>点击查看详情</text>
+      </view>
+      <view class="information">
+      <!-- 时间 -->
+        <view>
+          <icon class="iconfont iconxingzhuang"></icon>
+          <text>本周三下午5:00</text>
+        </view>
+        <view>
+          <icon class="iconfont iconweizhi"></icon>
+          <text>北区体育馆</text>
+        </view>
+        <view>
+          <icon class="iconfont iconrenshu"></icon>
+          <text>3/10</text>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="list">
+    <!-- 标题 -->
+    <view class="list_header">
+      <icon class="iconfont iconlanqiuyundongxianxing"></icon>
+      <text>打篮球</text>
+    </view>
+    <!-- 内容 -->
+    <view class="list_center">
+      <view class="personal">
+        <image src="../../images/avatar.png"></image>
+        <text>L.文禧</text>
+        <text>点击查看详情</text>
+      </view>
+      <view class="information">
+      <!-- 时间 -->
+        <view>
+          <icon class="iconfont iconxingzhuang"></icon>
+          <text>本周三下午5:00</text>
+        </view>
+        <view>
+          <icon class="iconfont iconweizhi"></icon>
+          <text>北区体育馆</text>
+        </view>
+        <view>
+          <icon class="iconfont iconrenshu"></icon>
+          <text>3/10</text>
+        </view>
+      </view>
+    </view>
+  </view>
+</scroll-view>

@@ -1,0 +1,27 @@
+.logo{
+  width:120px;
+  height:120px;
+  margin:130px auto 0;
+  display:block;
+}
+.text{
+  color:#9bc4fc;
+  text-align: center;
+  font-size: 22px;
+  margin-top: 14px;
+}
+.button{
+  height:50px;
+  width:250px;
+  margin:140px auto;
+  background-image:linear-gradient(to right ,rgba(157, 238, 255, 1),rgba(155, 196, 252, 1));
+  color:#fff;
+  border-radius: 4px;
+  text-align: center;
+  line-height: 50px;
+  transition: all .5s;
+  font-size: 18px;
+}
+.button:active{
+  background-image: linear-gradient(90deg, rgba(67, 219, 255, 1) 0%, rgba(55, 140, 247, 1) 100%);
+}
